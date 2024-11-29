@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+}
+
+#textTitle1 {
+    font-size: xx-large;
+    width: 568px;
+    height: 48px;
+    text-align: center;
+    margin: 5px;
+}
+
+#image1 {
+    width: 568px;
+    height: 446px;
+}
+#staryParagh {
+    width: 568px;
+    height: 96px;
+    text-align: center;
+    color: #414651;
+}
+
+#list1 {
+    width: 568px;
+    height: 144px;
+    color: #155EEF;
+}
+#readMore {
+    width: 113px;
+    height: 32px;
+    color: #CEA201;
+}
+.readmoreDiv {
+    width: 177px;
+    height: 56px;
+    border: 2px solid #CEA201;
+}
+
+#textTitle2 {
+    width: 722px;
+    height: 48px;
+    text-align: center;
+    font-size: xx-large;
+}
+#magicParagh {
+    width: 722px;
+    height: 72px;
+    text-align: center;
+    color: #414651;
+}
+#greenText1 {
+    width: 722px;
+    height: 24px;
+    color: #00C76E;
+    text-align: center;
+}
+#list2 {
+    width: 461px;
+    height: 72px;
+    color: #FF5DA3;
+    text-align: center;
+}
+#image2 {
+    width: 200px;
+    height: 200px;
+}
+#list3Div {
+    width: 722px;
+    height: 160px;
+    border: 6px solid #C11574;
+    background-color: #FFDEF0;
+}
+#list3Title {
+    width: 690px;
+    height: 24px;
+    font-size: larger;
+}
+#list3 {
+    color: #C27512;
+}
+#image3 {
+    width: 298.01px;
+    height: 396px;
+    margin-top: 7px;
+}
+#anchorFooter {
+    color: #00D4BC;
+    width: 722px;
+    height: 32px;
+    display: inline-block;
+    text-align: right;
+}
